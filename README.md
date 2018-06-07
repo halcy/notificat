@@ -1,4 +1,6 @@
-notificat.py - prints mastodon webpushes to console
+# notificat.py
+
+Prints mastodon webpushes to console
 
 Adjust settings in the script file. Password is prompted on first login.
 
