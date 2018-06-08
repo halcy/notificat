@@ -17,6 +17,9 @@ import styletools
 import mozpush
 import time
 
+import signal
+signal.signal(signal.SIGINT, lambda x,y: sys.exit(0))
+
 ###
 # Argument parsing
 ###
