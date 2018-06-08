@@ -57,3 +57,7 @@ hostname and to be reachable via at least port 80. You also need to have
 certbot-auto installed and configured correctly. For autopush operation,
 nothing is required - it should just work.
 </pre>
+
+**Screenshot:**
+
+![notificat screenshot](screenshot.png?raw=true "Optional Title")
