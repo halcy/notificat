@@ -1,6 +1,6 @@
 # notificat.py
 
-Prints mastodon webpushes to console
+Prints Mastodon WebPush notifications to your terminal.
 
 **To install:**
 <pre>
