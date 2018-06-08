@@ -6,7 +6,7 @@ Prints Mastodon WebPush notifications to your terminal.
 <pre>
 git clone
 cd notificat
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 </pre>
 
 **Usage:**
